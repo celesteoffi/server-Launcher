@@ -1,11 +1,11 @@
 {
-    "name": "Conflictura",
-    "preductname": "Conflictura Launcher",
+    "name": "launcher-1",
+    "preductname": "launcher-1",
     "version": "2.3.1",
-    "description": "Conflictura modded server launcher",
+    "description": "launcher-1 modded server launcher",
     "main": "src/app.js",
-    "author": "Luuxis/Riptiaz",
-    "settings": "https://launcher.conflictura.site",
+    "author": "Luuxis/lunlooter",
+    "settings": "https://api.onimai.fr",
     "engines": {
         "node": "16.x.x"
     },
