@@ -2,7 +2,7 @@
     "name": "frostmcrp",
     "preductname": "frostmc",
     "version": "2.3.2",
-    "description": "FrostMc rp modded server launcher",
+    "description": "FrostMc rp",
     "main": "src/app.js",
     "author": "Luuxis/lunlooter",
     "settings": "https://api.onimai.fr",
