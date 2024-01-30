@@ -1,7 +1,7 @@
 {
     "name": "frostmcrp",
     "preductname": "frostmc",
-    "version": "2.3.1",
+    "version": "2.3.2",
     "description": "FrostMc rp modded server launcher",
     "main": "src/app.js",
     "author": "Luuxis/lunlooter",
