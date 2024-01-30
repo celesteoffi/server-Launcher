@@ -1,8 +1,8 @@
 {
-    "name": "launcher-1",
-    "preductname": "launcher-1",
+    "name": "FrostMc Rp",
+    "preductname": "frostmc",
     "version": "2.3.1",
-    "description": "launcher-1 modded server launcher",
+    "description": "FrostMc rp modded server launcher",
     "main": "src/app.js",
     "author": "Luuxis/lunlooter",
     "settings": "https://api.onimai.fr",
